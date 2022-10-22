@@ -1,11 +1,3 @@
-"""
-File Description: Computer Architecture 1st Homework.
-                  This program is a kind of interpreter which execute the machine code like code which got as a file.
-Author: Arsalan Jabbari
-Student Number: 9932125
-Creation Date: 13 OCT 2022
-Version: 1.0.3
-"""
 
 
 # This function, implements for error handling of this program.
