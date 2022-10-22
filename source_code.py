@@ -1,5 +1,3 @@
-
-
 # This function, implements for error handling of this program.
 def error(instructions_set, instruction_operands):
     # Error handling 1.
@@ -35,7 +33,6 @@ def error(instructions_set, instruction_operands):
         else:
             print("Invalid instruction in line ", nn)
             quit()
-
 
 
 # BRU or branch unconditional command implementation.
